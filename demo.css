@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.my-class{
+    width: 70%;
+    margin:auto;
+    top: 300px;
+}
+h2{
+    color: white;
+    text-align: center;
+}
